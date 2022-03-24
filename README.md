@@ -2,5 +2,4 @@
 qwerty xxx xxx
 asdfghjkl;zxcvbnm,
 uiop
-zxcv 
-xxx
+zxcv xxx
